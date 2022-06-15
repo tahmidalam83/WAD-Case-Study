@@ -1,4 +1,4 @@
-# WAD-Case-Study
+# Web Application Development-Case-Study
 This is the project for Web Application Development.  
 Case study of "A course scheduling system."
 
