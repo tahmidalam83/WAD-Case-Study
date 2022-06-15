@@ -1,6 +1,6 @@
-# Web Application Development-Case-Study
+# Web Application Development Project-Course scheduling system.
 This is the project for Web Application Development.  
-Case study of "A course scheduling system."
+"A course scheduling system."
 
 Group Members are: 
 1. Tahmid Alam 1827755
