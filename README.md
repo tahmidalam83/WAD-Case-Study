@@ -1,26 +1,22 @@
 # WAD-Case-Study
-This is the project for WAS Case Study for Group D
-We are Group D for the case study of "A course scheduling system."
+This is the project for Web Application Development.  
+Case study of "A course scheduling system."
+
 Group Members are: 
 1. Tahmid Alam 1827755
 2. Ahmed Bin Delowar 1825969
-3. MD Imran Khan 1514299
-4. MD MIJANUR RAHMAN 1631849
+
 
 Assigned Tasks for each group member: 
 1. Tahmid Alam 1827755: 
-Creating github repository, phpMyAdmin database connection, bookself.sql, readme.md, index.php, 
+Creating github repository, phpMyAdmin database connection, bookself.sql, readme.md, index.php, login.php, connection.php, logout.php
 
 2. Ahmed Bin Delowar 1825969
-index.html, bookself.sql, info.php
+index.html, bookself.sql, info.php, login.php, connection.php, logout.php
 
-3. MD Imran Khan 1514299
-index.html, login.php, connection.php  
 
-4. MD MIJANUR RAHMAN 1631849
-index.html, login.php, logout.php
 
-Brief Description: Group D has been assigned to the case study about "A course scheduling system". 
+Brief Description: We have been assigned to the case study about "A course scheduling system". 
 It contains 25 empty slots for storage from Monday to Friday excluding lunch time. Each slot can only store a subject. The class starts at 8.30 AM and ends at 4.50 PM.
 The duration for each slot is an hour and 20 minutes. Item is stored based on course code. Each course should have 2 meetings in a week. 
 
