@@ -11,7 +11,7 @@ Assigned Tasks for each group member:
 1. Tahmid Alam 1827755: 
 Creating github repository, phpMyAdmin database connection, bookself.sql, readme.md, index.php, login.php, connection.php, logout.php
 
-2. Ahmed Bin Delowar 1825969
+2. Ahmed Bin Delowar 1825969:
 index.html, bookself.sql, info.php, login.php, connection.php, logout.php
 
 
